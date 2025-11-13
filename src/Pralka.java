@@ -1,4 +1,4 @@
-public class Pralka extends Main {
+public class Pralka extends Bazowa {
     private int program = 0;
 
     public int program(int numer){
